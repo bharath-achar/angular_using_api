@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1234,
+        "name": "Bharath",
+        "email": "bharath@gmail.com",
+        "phone": 9876542320
+    }, {
+        "id": 1235,
+        "name": "Ramya",
+        "email": "ramya@gmail.com",
+        "phone": 8747648730
+    }, {
+        "id": 1236,
+        "name": "Bhavya",
+        "email": "bhavya@gmail.com",
+        "phone": 9876654687
+    }, {
+        "id": 1237,
+        "name": "Divya",
+        "email": "divya@gmail.com",
+        "phone": 8776564568
+    }, {
+        "id": 1238,
+        "name": "Soumya",
+        "email": "soumya@gmail.com",
+        "phone": 8765466787
+    }, {
+        "id": 1239,
+        "name": "Kavya",
+        "email": "kavya@gmail.com",
+        "phone": 8765677786
+    }
+]
